@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 2ADC-FD77
+
+ Directory of C:\Users\Ralph\Desktop\gitter
+
+03/29/2021  07:47 PM    <DIR>          .
+03/29/2021  07:47 PM    <DIR>          ..
+03/29/2021  07:47 PM                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  11,009,957,888 bytes free
